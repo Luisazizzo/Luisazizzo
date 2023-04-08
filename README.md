@@ -14,7 +14,7 @@ Hi there <img alt="Luisazizzo" width="40px" src="https://em-content.zobj.net/thu
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />  
 </p>
 
-<h3 align="center">My Best Projects:</h3>
+<h3 align="center">My Latest Projects:</h3>
 <ul align="center" style="list-style: none; margin-left: -40px">
 <li><a href="https://luisazizzo.github.io/beautyAndGold/" target="_blank">Beauty And Gold</a></li>
 <li><a href="https://twitter-clone-umber-ten.vercel.app" target="_blank">Twitter Clone</a></li>
