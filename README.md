@@ -15,13 +15,12 @@ Hi there <img alt="Luisazizzo" width="40px" src="https://em-content.zobj.net/thu
 </p>
 
 <h3 align="center">My Latest Projects:</h3>
-<ul align="center" style="list-style: none; margin-left: -40px">
-<li><a href="https://luisazizzo.github.io/beautyAndGold/" target="_blank">Beauty And Gold</a></li>
-<li><a href="https://twitter-clone-umber-ten.vercel.app" target="_blank">Twitter Clone</a></li>
-<li><a href="https://cocktails-eta.vercel.app/" target="_blank">Cocktails</a></li>
-<li><a href="https://global-todo.vercel.app" target="_blank">Todo List</a></li>
-<li><a href="https://explorer-eight-plum.vercel.app" target="_blank">Explorer</a></li>
-</ul>
+
+<p align="center"><a href="https://luisazizzo.github.io/beautyAndGold/" target="_blank">Beauty And Gold</a></p>
+<p align="center"><a href="https://twitter-clone-umber-ten.vercel.app" target="_blank">Twitter Clone</a></p>
+<p align="center"><a href="https://cocktails-eta.vercel.app/" target="_blank">Cocktails</a></p>
+<p align="center"><a href="https://global-todo.vercel.app" target="_blank">Todo List</a></p>
+<p align="center"><a href="https://explorer-eight-plum.vercel.app" target="_blank">Explorer</a></p>
 
 <h3 align="center">Join me on LinkedIn:<br>
 <a href="https://www.linkedin.com/in/luisa-zizzo/" target="_blank"><img width="200" src="https://proinfluent.b-cdn.net/wp-content/uploads/2019/05/Logo-LinkedIn-blanc.png" /></a>
