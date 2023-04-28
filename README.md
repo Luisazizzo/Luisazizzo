@@ -15,13 +15,14 @@ Hi there <img alt="Luisazizzo" width="40px" src="https://em-content.zobj.net/thu
 </p>
 
 <h3 align="center">My Latest Projects:</h3>
-
-<p align="center"><a href="https://luisazizzo.github.io/beautyAndGold/" target="_blank">Beauty And Gold</a></p>
-<p align="center"><a href="https://twitter-clone-umber-ten.vercel.app" target="_blank">Twitter Clone</a></p>
-<p align="center"><a href="https://cocktails-eta.vercel.app/" target="_blank">Cocktails</a></p>
-<p align="center"><a href="https://global-todo.vercel.app" target="_blank">Todo List</a></p>
-<p align="center"><a href="https://explorer-eight-plum.vercel.app" target="_blank">Explorer</a></p>
+<p align="center"><a href="https://budz.vercel.app/" target="_blank">Budz</a> - Catalogo musicale interattivo (Next Js)</p>
+<p align="center"><a href="https://luisazizzo.github.io/beautyAndGold/" target="_blank">Beauty And Gold</a> - E-commerce clone del sito Wish (Vanilla Js)</p>
+<p align="center"><a href="https://twitter-clone-umber-ten.vercel.app" target="_blank">Twitter Clone</a> - Clone del famoso social network (React Js)</p>
+<p align="center"><a href="https://cocktails-eta.vercel.app/" target="_blank">Cocktails</a> - Achivio di cocktails (React Js)</p>
+<p align="center"><a href="https://global-todo.vercel.app" target="_blank">Todo List</a> - Classica App per promemoria (React Js)</p>
+<p align="center"><a href="https://explorer-eight-plum.vercel.app" target="_blank">Explorer</a> - Sito di attrazioni turistiche (React Js)</p>
+<br>
 
 <h3 align="center">Join me on LinkedIn:<br>
-<a href="https://www.linkedin.com/in/luisa-zizzo/" target="_blank"><img width="200" src="https://proinfluent.b-cdn.net/wp-content/uploads/2019/05/Logo-LinkedIn-blanc.png" /></a>
+<a href="https://www.linkedin.com/in/luisa-zizzo/" target="_blank"><img width="200" src="logo-linkedin.png" /></a>
 </h3>
