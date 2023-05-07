@@ -15,6 +15,7 @@ Hi there <img alt="Luisazizzo" width="40px" src="https://em-content.zobj.net/thu
 </p>
 
 <h3 align="center">My Latest Projects:</h3>
+<p align="center"><a href="https://portfolio-typescript-eight.vercel.app/" target="_blank">Portfolio</a> - Curriculum online interattivo (Next Js, Typescript, MongoDb)</p>
 <p align="center"><a href="https://budz.vercel.app/" target="_blank">Budz</a> - Catalogo musicale interattivo (Next Js)</p>
 <p align="center"><a href="https://luisazizzo.github.io/beautyAndGold/" target="_blank">Beauty And Gold</a> - E-commerce clone del sito Wish (Vanilla Js)</p>
 <p align="center"><a href="https://twitter-clone-umber-ten.vercel.app" target="_blank">Twitter Clone</a> - Clone del famoso social network (React Js)</p>
